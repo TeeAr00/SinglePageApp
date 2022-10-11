@@ -13,6 +13,7 @@ import Footer from './sivut/Footer';
 function App() {
   return (
     <img src="kuva.png" />
+    
    /*  <>
     <Navbar />
     <Header />
