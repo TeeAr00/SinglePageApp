@@ -12,9 +12,9 @@ import Footer from './sivut/Footer';
 
 function App() {
   return (
-    <img src="kuva.png" />
-    
-   /*  <>
+    //<img src="kuva.png" />
+
+    <>
     <Navbar />
     <Header />
     <div className='container'>
@@ -27,7 +27,7 @@ function App() {
 
     </div>
     <Footer/>
-    </> */
+    </> 
   );
 }
 
